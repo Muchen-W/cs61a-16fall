@@ -118,6 +118,12 @@ def hailstone(n):
     		length = hailstone(n * 3 + 1) + 1
     	return length
 
-if __name__ == '__main__':
-	a = hailstone(10)
-	print('length =', a)
+#if __name__ == '__main__':
+#	a = hailstone(10)
+#	print('length =', a)
+
+# python3 -i hw01.py  # interactive mode
+# python3 -m doctest hw01.py  # run test cases in fuction doc
+# python3 -m doctest -v hw01.py  # -v refers to the verbose mode
+
+a = hailstone(10)
