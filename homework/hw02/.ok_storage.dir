@@ -1,0 +1,6 @@
+'factorial-correct', (2560, 70)
+'product-correct', (1024, 70)
+'product-attempts', (0, 71)
+'factorial-last_attempt', (2048, 74)
+'factorial-attempts', (1536, 71)
+'product-last_attempt', (512, 74)
